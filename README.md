@@ -7,13 +7,7 @@ In the current project, an approach to the interrelationship of tourism on UNESC
 
 # Sources from which it has been extracted
 
-https://datosmacro.expansion.com/comercio/turismo-internacional
-
-https://whc.unesco.org/en/list/
-
-https://es.flightaware.com/live/airport/SPJC
-
-https://www.dataestur.es
+https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_inf_stats_tableau/project/files_for_project
 
 # Folder structure
 
